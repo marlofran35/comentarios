@@ -1,0 +1,138 @@
+[29-Mar-2025 04:25:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:10) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 24
+[29-Mar-2025 04:28:03 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'erykbeufor2010@gmail.com' for key 'email'
+[29-Mar-2025 04:28:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:10) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:03:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:03:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:03:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:04:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:05:00 America/Fortaleza] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home1/tvaonl10/public_html/comentarios/includes/formulario.php on line 2
+[29-Mar-2025 05:09:26 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pagina_id' cannot be null
+[29-Mar-2025 05:09:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:10) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:10:43 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '100futebolbrasil@gmail.com' for key 'email'
+[29-Mar-2025 05:10:43 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:10) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:11:27 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pagina_id' cannot be null
+[29-Mar-2025 05:11:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:10) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:18:27 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'euteensinotutors@gmail.com' for key 'email'
+[29-Mar-2025 05:18:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:24:41 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'euteensinotutors@gmail.com' for key 'email'
+[29-Mar-2025 05:24:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:25:30 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'erykbeufor2010@gmail.com' for key 'email'
+[29-Mar-2025 05:25:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 28
+[29-Mar-2025 05:29:49 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 33
+[29-Mar-2025 05:31:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 33
+[29-Mar-2025 05:31:19 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 33
+[29-Mar-2025 05:33:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 33
+[29-Mar-2025 06:24:35 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+[29-Mar-2025 06:24:35 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 40
+[29-Mar-2025 06:24:44 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+[29-Mar-2025 06:24:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 40
+[29-Mar-2025 06:26:17 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+[29-Mar-2025 06:26:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 40
+[29-Mar-2025 06:34:56 America/Fortaleza] Erro ao salvar comentário: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null
+[29-Mar-2025 06:34:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:15) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 40
+[29-Mar-2025 06:36:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:37:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:43:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:44:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/formulario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 06:49:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(3): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 07:13:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant PDO::ATTR_INIT_COMMAND in /home1/tvaonl10/public_html/comentarios/config/conexao.php:9
+Stack trace:
+#0 /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php(6): require_once()
+#1 {main}
+  thrown in /home1/tvaonl10/public_html/comentarios/config/conexao.php on line 9
+[29-Mar-2025 07:15:48 America/Fortaleza] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 10
+[29-Mar-2025 07:15:48 America/Fortaleza] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 11
+[29-Mar-2025 07:15:48 America/Fortaleza] Comentário salvo com sucesso - Nome: marilene
+[29-Mar-2025 07:15:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:1) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 29
+[29-Mar-2025 07:15:54 America/Fortaleza] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 10
+[29-Mar-2025 07:15:54 America/Fortaleza] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 11
+[29-Mar-2025 07:15:54 America/Fortaleza] Comentário salvo com sucesso - Nome: marilene
+[29-Mar-2025 07:15:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:1) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 29
+[29-Mar-2025 08:05:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:1) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 4
+[29-Mar-2025 08:09:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:1) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 4
+[29-Mar-2025 08:11:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/tvaonl10/public_html/comentarios/config/conexao.php:1) in /home1/tvaonl10/public_html/comentarios/includes/processar_comentario.php on line 4
+[29-Mar-2025 08:37:05 America/Fortaleza] Dados recebidos: Array
+(
+    [nome] => janiel
+    [comentario] => olaaaaaaadd
+)
+
+[29-Mar-2025 08:40:20 America/Fortaleza] Dados recebidos: Array
+(
+    [nome] => maria de jesus
+    [comentario] => deu certo
+)
+
+[29-Mar-2025 08:46:32 America/Fortaleza] Dados recebidos: Array
+(
+    [nome] => maria
+    [comentario] => adoro a globo
+)
+
+[29-Mar-2025 08:48:27 America/Fortaleza] Dados recebidos: Array
+(
+    [nome] => maria
+    [comentario] => ola
+)
+
+[29-Mar-2025 08:50:22 America/Fortaleza] Dados recebidos: Array
+(
+    [nome] => maria 
+    [comentario] => ola
+)
+

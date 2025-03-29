@@ -1,0 +1,29 @@
+<?php
+// Ativa exibição de erros
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// Log do teste
+error_log("Iniciando teste de conexão");
+
+require_once __DIR__ . '/config/conexao.php';
+
+try {
+    // Testa a conexão
+    $sql = "SELECT COUNT(*) FROM comentarios";
+    $count = $conn->query($sql)->fetchColumn();
+    
+    echo "<pre>";
+    echo "✅ Conexão: OK\n";
+    echo "✅ Total de comentários: " . $count . "\n";
+    echo "</pre>";
+    
+} catch(Exception $e) {
+    echo "<pre>";
+    echo "❌ ERRO: " . $e->getMessage() . "\n";
+    echo "</pre>";
+    
+    // Log do erro
+    error_log("Erro no teste: " . $e->getMessage());
+}
+?>
